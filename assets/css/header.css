@@ -89,11 +89,12 @@ a {
 }
 
 .nav-item {
-    margin-left: 5rem;
+    margin-right: 3rem;
+    width:100px;
 }
 
 .nav-link{
-
+    
     font-size: 1rem;
     font-weight: 400;
     color: #475569;
@@ -156,9 +157,9 @@ a {
     }
 
     .nav-item{
-        margin-left:80px;
+        margin-left:45px;
     }
     .button3{
-        margin-left:70px;
+        margin-left:13px;
     }
 }
