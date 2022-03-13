@@ -10,7 +10,7 @@ function mobileMenu() {
     navMenu.classList.toggle("active");
 }
 
-const closeMenu = () => {
+function closeMenu() {
     hamburger.classList.remove("active");
     navMenu.classList.remove("active");
 }
