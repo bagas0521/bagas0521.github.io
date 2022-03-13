@@ -1,0 +1,55 @@
+.container-mukhtar{
+    font-family: "Ropa Sans", sans-serif;
+}
+.heading-mukhtar{
+    padding: 50px 0;
+}
+/* Work Wrappper */
+.work-wrapper{
+    text-align: center;
+}
+.work-item{
+    float: left;
+    width: 25%;
+    padding: 80px 0;
+}
+.work-image{
+    width: 112px;
+    height: 112px;
+    cursor: pointer;
+}
+.work-item p{
+    padding-top: 10px;
+    font-size: large;
+    width: 90%;
+}
+.work-image:hover{
+    transition: all 0.5s;
+    width: 130px;
+    height: 130px;
+}
+
+/* Why Us */
+.why-us{
+    text-align: center;
+    height: 800px;
+}
+.why-us-item{
+    padding-top: 50px;
+    float: left;
+    width: 25%;
+}
+.why-us-image{
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+.why-us-image:hover{
+    transition: all 0.5s;
+    width: 130px;
+    height: 130px;
+}
+.why-us-item p{
+    padding-top: 10px;
+    font-size: large;
+}
