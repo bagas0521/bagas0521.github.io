@@ -1,0 +1,38 @@
+*{
+ box-sizing: border-box;
+}
+.wrapper-faris{
+ width: 100%;
+ color: #212529;
+}
+.container-faris{
+ text-align: center;
+ margin: 0 7.5px;
+}
+.heading-faris{
+ padding: 16px;
+ height: 80px;
+}
+.h1-faris{
+ margin:0 0 8px;
+ height: 48px;
+ font-family: "Ropa Sans", sans-serif;
+ font-size: 40px;
+ font-weight: 700;
+}
+.layanan-unit-faris{
+ float: left;
+ width: 33.33333%;
+ margin: 16px 0;
+ padding: 16px;
+}
+.layanan-unit-faris img{
+ width: 96px;
+ height: 96px;
+ margin: 0 0 16px;
+}
+.layanan-unit-faris p{
+ margin: 0 0 16px;
+ font-size: 16px;
+ font-family: "Poppins", sans-serif;
+}
