@@ -21,6 +21,10 @@ footer{
     text-justify: inter-word;
 }
 
+.footer-contents-falend {
+    width: 100%;
+}
+
 .footer-content-falend img {
     width: 80px;
     float: center;
