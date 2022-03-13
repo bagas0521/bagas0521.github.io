@@ -69,6 +69,10 @@ footer{
     padding: 20px 0 20px 0;
 }
 
+.copyright-falend p {
+    font-size: 1.5rem;
+}
+
 @media (max-width: 1100px){
     .footer-content-falend {
         width: 50%;
@@ -113,5 +117,8 @@ footer{
     }
     .spesial-falend {
         text-align: left;
+    }
+    .copyright-falend p {
+        font-sizs: 1.2rem;
     }
 }
