@@ -1,8 +1,10 @@
-
 * {
+    box-sizing: border-box;
+}
+
+body {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 html {
@@ -39,13 +41,12 @@ header{
     width:74px;
     cursor: pointer;
     margin-right:70px;
-  }
+    }
 
-  .button3:hover {
+    .button3:hover {
     background: #1785b8;
     
-  }
-  
+    }
 
 li {
     list-style: none;
@@ -106,7 +107,7 @@ a {
 @media only screen and (max-width: 768px) {
     .nav-menu {
         position: fixed;
-        left: -100%;
+        left: -150%;
         top: 5rem;
         flex-direction: column;
         background-color: #F8F9FA;
