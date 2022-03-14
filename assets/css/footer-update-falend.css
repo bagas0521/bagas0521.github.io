@@ -141,8 +141,6 @@ footer{
         
         color: white;
         text-align: center;
-        position: fixed;
-        left: 0;
         bottom: 0;
         
     }
@@ -151,8 +149,6 @@ footer{
         
         color: white;
         text-align: center;
-        position: fixed;
-        left: 0;
         bottom: 0;
         padding: 20px 0 20px 0;
     }
