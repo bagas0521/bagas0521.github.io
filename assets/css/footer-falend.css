@@ -93,18 +93,10 @@ footer{
     .spesial-falend {
         text-align: center;
     }
-    .copyright-falend {
-        border-top: 1px solid white;
-        
-        color: white;
-        text-align: center;
-        
-    }
 }
 
 @media (max-width: 768px) {
     .container-falend {
-        
         padding-left: 10%;
         padding-right: 10%;
     }
