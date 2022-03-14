@@ -136,24 +136,4 @@ footer{
     .copyright-falend p {
         font-size: 1.2rem;
     }
-    .copyright-falend {
-        border-top: 1px solid white;
-        
-        color: white;
-        text-align: center;
-        position: fixed;
-        left: 0;
-        bottom: 0;
-        
-    }
-    .copyright-falend {
-        border-top: 1px solid white;
-        
-        color: white;
-        text-align: center;
-        position: fixed;
-        left: 0;
-        bottom: 0;
-        padding: 20px 0 20px 0;
-    }
 }
