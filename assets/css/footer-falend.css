@@ -93,10 +93,18 @@ footer{
     .spesial-falend {
         text-align: center;
     }
+    .copyright-falend {
+        border-top: 1px solid white;
+        
+        color: white;
+        text-align: center;
+        
+    }
 }
 
 @media (max-width: 768px) {
     .container-falend {
+        
         padding-left: 10%;
         padding-right: 10%;
     }
@@ -106,6 +114,8 @@ footer{
         width: 100%;
         left: 0;
         bottom: 0;
+        overflow:auto; 
+       
         height: 450px;
     }
     .footer-content-falend {
@@ -125,5 +135,25 @@ footer{
     }
     .copyright-falend p {
         font-size: 1.2rem;
+    }
+    .copyright-falend {
+        border-top: 1px solid white;
+        
+        color: white;
+        text-align: center;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        
+    }
+    .copyright-falend {
+        border-top: 1px solid white;
+        
+        color: white;
+        text-align: center;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        padding: 20px 0 20px 0;
     }
 }
